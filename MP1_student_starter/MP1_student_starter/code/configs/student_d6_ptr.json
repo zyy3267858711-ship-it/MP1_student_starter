@@ -1,0 +1,1 @@
+{"vocab": 2048, "width": 256, "heads": 4, "depth": 6, "context": 256, "dropout": 0.1, "rope": true, "swiglu": true, "norm": "rms", "pointer": true, "ptr_dim": 128, "ptr_null_bias": 6.0}
